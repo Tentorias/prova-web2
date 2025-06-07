@@ -1,8 +1,8 @@
 # Projeto: ModernShop
 
 ## Links
-Github:
-Deploy:
+Github: https://github.com/Tentorias/prova-web2/tree/main/smartbuy-main
+Deploy: https://prova-web2.vercel.app
 
 ## Descrição
 
@@ -26,7 +26,7 @@ Ideal para praticar conceitos de frontend moderno, integração com APIs públic
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo
+https://github.com/Tentorias/prova-web2.git
 cd seu-repo
 
 # Instale as dependências
